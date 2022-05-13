@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "REST API for Gym Booking App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A3LMI/gym-app.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Abderrahmane El Mimouni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A3LMI/gym-app/issues"
+  },
+  "homepage": "https://github.com/A3LMI/gym-app#readme"
+}
